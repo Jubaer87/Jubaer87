@@ -1,4 +1,4 @@
-👋 Hi there, I'm Jubaer Hossain hailing from Dhaka, Bangladesh 🇧🇩. I have completed my undergraduate degree in Computer Science Engineering from The University of Asia Pacific, Bangladesh. I have knowledge in Software Development and Research.
+👋 Hi there, I'm Jubaer Hossain hailing from Dhaka, 🇧🇩 Bangladesh. I have completed my undergraduate degree in Computer Science Engineering from The University of Asia Pacific, Bangladesh. I have knowledge in Software Development and Research.
 
 As a fresh graduate, I'm eager to continue my learning journey and apply my knowledge to real-world challenges. I'm enthusiastic about collaborating with like-minded professionals and contributing to research initiatives that push the boundaries of technology.
 
