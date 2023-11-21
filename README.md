@@ -6,7 +6,7 @@ Field of interests are Software Development, ML, and DS. Let's connect and explo
 
 
 
-- 🌱 I’m currently learning **Spring, MySQL, PL/SQL**
+- 🌱 I’m currently working with **Spring, MySQL, PL/SQL**
 
 - 📫 How to reach me **jubaer.hossain.cse@gmail.com**
 
